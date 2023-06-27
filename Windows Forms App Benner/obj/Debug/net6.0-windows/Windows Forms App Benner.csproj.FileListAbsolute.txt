@@ -1,0 +1,17 @@
+D:\Programação\Novo Forms\Windows Forms App Benner\Windows Forms App Benner\bin\Debug\net6.0-windows\Windows Forms App Benner.exe
+D:\Programação\Novo Forms\Windows Forms App Benner\Windows Forms App Benner\bin\Debug\net6.0-windows\Windows Forms App Benner.deps.json
+D:\Programação\Novo Forms\Windows Forms App Benner\Windows Forms App Benner\bin\Debug\net6.0-windows\Windows Forms App Benner.runtimeconfig.json
+D:\Programação\Novo Forms\Windows Forms App Benner\Windows Forms App Benner\bin\Debug\net6.0-windows\Windows Forms App Benner.dll
+D:\Programação\Novo Forms\Windows Forms App Benner\Windows Forms App Benner\bin\Debug\net6.0-windows\Windows Forms App Benner.pdb
+D:\Programação\Novo Forms\Windows Forms App Benner\Windows Forms App Benner\obj\Debug\net6.0-windows\Windows Forms App Benner.csproj.AssemblyReference.cache
+D:\Programação\Novo Forms\Windows Forms App Benner\Windows Forms App Benner\obj\Debug\net6.0-windows\Windows_Forms_App_Benner.Form1.resources
+D:\Programação\Novo Forms\Windows Forms App Benner\Windows Forms App Benner\obj\Debug\net6.0-windows\Windows Forms App Benner.csproj.GenerateResource.cache
+D:\Programação\Novo Forms\Windows Forms App Benner\Windows Forms App Benner\obj\Debug\net6.0-windows\Windows Forms App Benner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Novo Forms\Windows Forms App Benner\Windows Forms App Benner\obj\Debug\net6.0-windows\Windows Forms App Benner.AssemblyInfoInputs.cache
+D:\Programação\Novo Forms\Windows Forms App Benner\Windows Forms App Benner\obj\Debug\net6.0-windows\Windows Forms App Benner.AssemblyInfo.cs
+D:\Programação\Novo Forms\Windows Forms App Benner\Windows Forms App Benner\obj\Debug\net6.0-windows\Windows Forms App Benner.csproj.CoreCompileInputs.cache
+D:\Programação\Novo Forms\Windows Forms App Benner\Windows Forms App Benner\obj\Debug\net6.0-windows\Windows Forms App Benner.dll
+D:\Programação\Novo Forms\Windows Forms App Benner\Windows Forms App Benner\obj\Debug\net6.0-windows\refint\Windows Forms App Benner.dll
+D:\Programação\Novo Forms\Windows Forms App Benner\Windows Forms App Benner\obj\Debug\net6.0-windows\Windows Forms App Benner.pdb
+D:\Programação\Novo Forms\Windows Forms App Benner\Windows Forms App Benner\obj\Debug\net6.0-windows\Windows Forms App Benner.genruntimeconfig.cache
+D:\Programação\Novo Forms\Windows Forms App Benner\Windows Forms App Benner\obj\Debug\net6.0-windows\ref\Windows Forms App Benner.dll
